@@ -2,6 +2,6 @@
 
 <p align = "left"> 
   <img src = "https://github-readme-stats.vercel.app/api?username=meerapatelmd&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&custom_title=Stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=meerapatelmd&layout=compact&custom_title=Languages">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=meerapatelmd&layout=compact&custom_title=Languages&hide=html">
 </p>
 
